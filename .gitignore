@@ -1,0 +1,4 @@
+runs/*
+data/*
+src/__pycache__/*
+script/*
